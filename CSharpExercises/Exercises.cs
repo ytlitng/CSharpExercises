@@ -15,6 +15,11 @@ namespace CSharpExercises
             return "Hello World!";
         }
 
+        public static string ReverseStringHard(string quote)
+        {
+            throw new NotImplementedException();
+        }
+
         /* Alright - your turn now! */
 
         // 1. Create a method called SayHello that accepts a string representing a name and returns a welcome message (E.g. "Hello John!")
